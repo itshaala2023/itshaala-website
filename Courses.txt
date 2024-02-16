@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Full Stack Development Course</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        h1, h2 {
+            margin: 0;
+        }
+        p {
+            margin-top: 0;
+            padding: 10px 0;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Full Stack Development Course</h1>
+        <p>Learn the essentials of full-stack development!</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Introduction to Full Stack Development</h2>
+            <p>Overview of front-end and back-end development, technologies, and tools.</p>
+        </section>
+
+        <section>
+            <h2>Front-end Development</h2>
+            <p>Learn HTML, CSS, JavaScript, frameworks like React, Angular, or Vue.js.</p>
+        </section>
+
+        <section>
+            <h2>Back-end Development</h2>
+            <p>Explore server-side programming languages (e.g., Node.js, Python, Ruby), databases (e.g., SQL, NoSQL), and frameworks (e.g., Express, Django, Flask).</p>
+        </section>
+
+        <section>
+            <h2>Full Stack Integration</h2>
+            <p>Combine front-end and back-end technologies to build full-stack applications.</p>
+        </section>
+
+        <section>
+            <h2>Project Work</h2>
+            <p>Apply your knowledge to develop real-world full-stack projects.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Full Stack Development Course. All rights reserved.</p>
+    </footer>
+</body>
+</html>
