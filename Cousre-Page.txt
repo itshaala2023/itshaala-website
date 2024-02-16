@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IT SHAALA</title>
+   
+        
+</head>
+<body>
+    <div class="container">
+        <h1>WEL COME TO IT SHAALA</h1>
+        <h2>python </h2>
+        <h2>full stack in java</h2>
+        <h2>Data Science</h2>
+        <h2>python :</h2>
+        <p>In this comprehensive course, you will embark on a journey to master the intricacies of data science using Python. From fundamental concepts to advanced techniques, you'll learn how to harness the power of Python libraries to analyze, visualize, and manipulate data effectively. Whether you're a beginner or an experienced programmer, this course will equip you with the skills and knowledge needed to excel in the field of data science.</p>
+        <div>
+            <h3>full stack python</h3>
+            <p>Core Python
+                Advance Python
+                SQL
+                ORM Framework
+                HTML
+                CSS
+                Bootstrap
+                JavaScript
+                DJango Framework
+                React
+                Real time tools</p>
+                <button>learn more</button>
+        </div>
+        
+        <h2>full stack in java:</h2>     <!-- the about java detail course -->
+        <p>Java Full Stack Development refers to the development of both front-end (client-side) and back-end (server-side) parts of a web application. This involves using Java programming language for server-side development, along with front-end technologies like HTML, CSS, JavaScript, and frameworks like Angular</p>
+        <div>
+            <h3>Full stack java course</h3>
+            <p>Java 8
+                Advance Java
+                Spring Framework
+                Hibernate Framework
+                Spring Boot
+                HTML & CSS
+                Bootstrap
+                JavaScript
+                React
+                SQL
+                Real time tools 
+                </p>
+                <button>learn more</button>
+        </div>
+        <h2>Data Science</h2>
+        <p>Data Science is a vast domain, it involves Mathematics, Business acumen, Statistics, Machine Learning, Artificial Intelligence, and similar fields to deal with the data. In a Data Science course, students learn about various tools, software, and Machine Learning algorithms that help to analyze data.</p>
+       <div>
+        <h3>Data Science Course</h3>
+        <p>Introduction to Artificial Intelligence
+            Introduction to Machine Learning
+            Introduction to Deep Learning
+            Introduction to Data Science
+            Core Python
+            Advance Python
+            SQL
+            ORM Framework
+            Machine Learning in detail
+            Math's & Statistics
+            Real time tools
+            </p>
+    </div>
+        <ol>
+            <li>Introduction to Data Science</li>
+            <li>Python Fundamentals for Data Science</li>
+            <!-- Add more modules -->
+        </ol>
+        
+        <h2>Course Benefits:</h2>
+        <ul>
+            <li>Hands-on projects and exercises to reinforce learning</li>
+            <li>Guidance from experienced instructors with real-world expertise</li>
+            <!-- Add more benefits -->
+        </ul>
+        
+        
+    </div>
+</body>
+</html>
